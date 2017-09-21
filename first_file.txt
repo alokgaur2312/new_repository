@@ -1,0 +1,4 @@
+Open Github(wwww.github.com)
+Create an account and sign in
+Create a repository with the "+" sign on top right corner
+Create a file using "Create new file"
